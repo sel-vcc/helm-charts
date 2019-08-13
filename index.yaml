@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  hw:
+  - apiVersion: v1
+    appVersion: 0.2.0
+    created: "2019-08-13T12:55:15.20061+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 5feeda070fddaa6d976731b90521b7d6a6b7a7fa8feb5ada9e106cac7a701cf3
+    name: hw
+    urls:
+    - https://sel-vcc.github.io/helm-charts/hw-0.1.1.tgz
+    version: 0.1.1
+generated: "2019-08-13T12:55:15.200085+02:00"
