@@ -3,11 +3,11 @@ entries:
   hw:
   - apiVersion: v1
     appVersion: 0.3.0
-    created: "2019-08-14T16:51:17.502174+02:00"
+    created: "2019-08-14T16:52:25.515709+02:00"
     description: A Helm chart for Kubernetes
-    digest: c7c33f1dd7e5315e2c91b2bdee551d86c85d33e76d4ea6e1e70e8c0fd28220c6
+    digest: fee84edc4e70a906c46e5a90ca53b8f243b35d95c3662110d774d4ec81619f8a
     name: hw
     urls:
     - https://sel-vcc.github.io/helm-charts/hw-0.1.1.tgz
     version: 0.1.1
-generated: "2019-08-14T16:51:17.501458+02:00"
+generated: "2019-08-14T16:52:25.514959+02:00"
